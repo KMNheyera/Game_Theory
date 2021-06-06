@@ -1,0 +1,13 @@
+C:\Users\LAPTOP\source\repos\Ozow_Assessment_Two\bin\Debug\netcoreapp3.1\Ozow_Assessment_Two.exe
+C:\Users\LAPTOP\source\repos\Ozow_Assessment_Two\bin\Debug\netcoreapp3.1\Ozow_Assessment_Two.deps.json
+C:\Users\LAPTOP\source\repos\Ozow_Assessment_Two\bin\Debug\netcoreapp3.1\Ozow_Assessment_Two.runtimeconfig.json
+C:\Users\LAPTOP\source\repos\Ozow_Assessment_Two\bin\Debug\netcoreapp3.1\Ozow_Assessment_Two.runtimeconfig.dev.json
+C:\Users\LAPTOP\source\repos\Ozow_Assessment_Two\bin\Debug\netcoreapp3.1\Ozow_Assessment_Two.dll
+C:\Users\LAPTOP\source\repos\Ozow_Assessment_Two\bin\Debug\netcoreapp3.1\Ozow_Assessment_Two.pdb
+C:\Users\LAPTOP\source\repos\Ozow_Assessment_Two\obj\Debug\netcoreapp3.1\Ozow_Assessment_Two.csprojAssemblyReference.cache
+C:\Users\LAPTOP\source\repos\Ozow_Assessment_Two\obj\Debug\netcoreapp3.1\Ozow_Assessment_Two.AssemblyInfoInputs.cache
+C:\Users\LAPTOP\source\repos\Ozow_Assessment_Two\obj\Debug\netcoreapp3.1\Ozow_Assessment_Two.AssemblyInfo.cs
+C:\Users\LAPTOP\source\repos\Ozow_Assessment_Two\obj\Debug\netcoreapp3.1\Ozow_Assessment_Two.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\source\repos\Ozow_Assessment_Two\obj\Debug\netcoreapp3.1\Ozow_Assessment_Two.dll
+C:\Users\LAPTOP\source\repos\Ozow_Assessment_Two\obj\Debug\netcoreapp3.1\Ozow_Assessment_Two.pdb
+C:\Users\LAPTOP\source\repos\Ozow_Assessment_Two\obj\Debug\netcoreapp3.1\Ozow_Assessment_Two.genruntimeconfig.cache

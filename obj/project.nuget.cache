@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "04/5rXvVRdmWRMLsvNDrsA2hjNvjpaECJB+EIXIQQhkEkARDlCeUA1Bo6rH+L9bTHxapFMaPWX4Q8LLiNeckkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LAPTOP\\Documents\\kuda_docs\\OzowAssessment_2_game_of_life\\Game_Theory\\Game_Theory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LAPTOP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ozow_Assessment_Two/1.0.0": {
+        "runtime": {
+          "Ozow_Assessment_Two.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ozow_Assessment_Two/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
